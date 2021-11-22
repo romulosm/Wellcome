@@ -5,9 +5,11 @@
 
 <br/><br/>
     
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight" width="450"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo93borges&count_private=true&show_icons=true&theme=tokyonight&langs_count=8&layout=compact&hide=java,c,objective-c,makefile&exclude_repo" width="325" />
-</p>
+<div align="center">
+  <a href="https://github.com/romulosm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romulosm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulosm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
     
 <br/><br/>
     
